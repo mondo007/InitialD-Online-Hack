@@ -6,6 +6,10 @@ This hack makes all the cars in the dealer free. It will also make all upgrades,
 
 
 [INSTALLMENT]
-To install the hack just copy and paste the assembly dll into \SteamLibrary\steamapps\common\Initial Drift Online\Initial Drift_Data\Managed. 
-If you want to get rid of the hack just go into steam, then to properties for initial d. then verify itegrity.
+To install
+  copy and paste the assembly dll into \SteamLibrary\steamapps\common\Initial Drift Online\Initial Drift_Data\Managed 
+  [If you want to get rid of the hack] go into steam, then to properties for initial d. then verify itegrity.
+
+
+
 ![Capture1](https://user-images.githubusercontent.com/97774036/149607753-92822dc9-1ecb-4a77-b59b-ad1562f967f6.PNG)
